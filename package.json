@@ -1,0 +1,25 @@
+{
+  "name": "webpack-trainning",
+  "version": "1.0.0",
+  "description": "webpackの使用方法を学ぶ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masatakaokada/webpack-trainning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masatakaokada/webpack-trainning/issues"
+  },
+  "homepage": "https://github.com/masatakaokada/webpack-trainning#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
